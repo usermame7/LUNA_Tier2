@@ -4,7 +4,7 @@ import { MessageCircle, Loader2 } from "lucide-react";
 
 export default function ContactPage() {
   const [countdown, setCountdown] = useState(3);
-  const telegramUrl = "https://t.me/+JR-RXRoIm8o1YWRk";
+  const telegramUrl = "https://t.me/+U7Lfj0uwoPQ1ZGFk";
 
   useEffect(() => {
     // Track the contact page visit
