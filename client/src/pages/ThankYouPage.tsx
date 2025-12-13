@@ -3,7 +3,7 @@ import { Button } from "@/components/ui/button";
 import { CheckCircle } from "lucide-react";
 
 export default function ThankYouPage() {
-  const telegramUrl = "https://t.me/+JR-RXRoIm8o1YWRk";
+  const telegramUrl = "https://t.me/+U7Lfj0uwoPQ1ZGFk";
 
   useEffect(() => {
     // Google Analytics tracking only - NO Lead event here
